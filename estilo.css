@@ -1,10 +1,13 @@
 H1{
     color: rgb(72, 4, 4);
+background-color: bisque;
 }
 body{
-background-color: beige;
+background-image: url();
+/*background-color: orang;*/
 text-align: center;
 }
 img{
 width:300px;
 }
+a{ 
