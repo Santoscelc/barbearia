@@ -1,0 +1,21 @@
+header{
+    background-color: aqua;
+    height: 200px;
+   padding: 20px 0;
+}
+nav li {
+    display: inline;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top:80px;
+    right: 0;
+}
+h1 img{
+    width: 200px;
+}
