@@ -1,5 +1,5 @@
 header{
-    background-color: aqua;
+    background-color: rgb(146, 0, 209)
     height: 200px;
    padding: 20px 0;
 }
@@ -18,4 +18,17 @@ nav{
 }
 h1 img{
     width: 200px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(146, 0, 209);
+padding: 40px 0;
+}
+footer img{
+width: 50px;
+margin-bottom: 20px;
+}
+footer p{
+    color:aliceblue
+    
 }
