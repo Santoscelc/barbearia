@@ -1,27 +1,27 @@
 header{
-    background-color: rgb(146, 0, 209)
-    height: 200px;
-   padding: 20px 0;
+background-color: rgb(146, 0, 209)
+height: 200px;
+padding: 20px 0;
 }
 nav li {
-    display: inline;
+display: inline;
 }
 .caixa{
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+position: relative;
+width: 940px;
+margin: 0 auto;
 }
 nav{
-    position: absolute;
-    top:80px;
-    right: 0;
+position: absolute;
+top:80px;
+right: 0;
 }
 h1 img{
-    width: 200px;
+width: 200px;
 }
 footer{
-    text-align: center;
-    background-color: rgb(146, 0, 209);
+text-align: center;
+background-color: rgb(146, 0, 209);
 padding: 40px 0;
 }
 footer img{
@@ -29,23 +29,24 @@ width: 50px;
 margin-bottom: 20px;
 }
 footer p{
-    color:aliceblue
+color:aliceblue
     
 }
 main{
-    margin: 0 auto;
+ margin: 0 auto;
 }
 
 form{
-    margin: 40px 0;
+margin: 40px 0;
 }
 form label{
-    display:block;
-    font-size: 20px
+display:block;
+font-size: 20px
 }
 form input{
-    display: block;
-    margin 0 20px;
-
+display: block;
+margin 0 20px;
+padding: 10px 25px;
+width: 50%;
 }
 
