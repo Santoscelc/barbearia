@@ -49,4 +49,39 @@ margin 0 20px;
 padding: 10px 25px;
 width: 50%;
 }
-
+form input{
+display: block;
+margin: 0 0 20px;
+padding: 10px 25px;
+width: 50%
+}
+form label, form p{
+display:block;
+font-size: 20px
+}
+.enviar{
+    width: 40%
+    padding: 15px;
+    background-color
+    color: 
+    font-weight: bold;
+    font-size: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s all;
+animation: repetir 1s linear infinite;
+}
+.enviar:hover{
+    background-color: aliceblue;
+    transform: scale(1.2);
+    transform: rotate(90deg)
+}
+@keyframes repetir{
+0%{
+    transform: scale(1.0);
+}
+100%{
+    transform: scale(1.5);
+}
+}
